@@ -2,19 +2,19 @@
 
 A modern implementation of the classic Connect 4 game in Python, featuring intelligent AI opponents and a dynamic GUI using Pygame.
 
-## 🚀 Features
+## Features
 
-- 🧠 **AI Algorithms**:
+- **AI Algorithms**:
   - **Minimax**: Exhaustive optimal play (slowest but most accurate).
   - **Alpha-Beta Pruning**: Optimized Minimax with faster decision-making.
   - **Iterative Deepening Alpha-Beta**: Combines real-time performance with accuracy.
 
-- 🖥️ **Game Modes**:
+- **Game Modes**:
   - Human vs AI
   - AI vs AI
   - Interactive GUI with animations, game stats, and algorithm explanations
 
-- 🎨 **Technologies Used**:
+- **Technologies Used**:
   - Python 3
   - Pygame for GUI
   - Enum and OOP for clean architecture
@@ -25,7 +25,7 @@ A modern implementation of the classic Connect 4 game in Python, featuring intel
 |-------------|-------------|------------|
 | ![Menu](assets/MenuScreen.jpg) | ![AI](assets/SelectAlgorithm.jpg) | ![Board](assets/GameBoard.jpg) |
 
-## 🧪 How to Run
+## How to Run
 
 ```bash
 # Install pygame if not already installed
