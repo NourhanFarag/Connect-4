@@ -21,7 +21,7 @@ A modern implementation of the classic Connect 4 game in Python, featuring intel
 
 ## 📸 Screenshots
 
-| Menu Screen | AI Thinking | Game Board |
+| Menu Screen | Select AI Algorithm | Game Board |
 |-------------|-------------|------------|
 | ![Menu](assets/MenuScreen.jpg) | ![AI](assets/SelectAlgorithm.jpg) | ![Board](assets/GameBoard.jpg) |
 
