@@ -21,6 +21,9 @@ A modern implementation of the classic Connect 4 game in Python, featuring intel
 
 ## 📸 Screenshots
 
+| Menu Screen | AI Thinking | Game Board |
+|-------------|-------------|------------|
+| ![Menu](assers/MenuScreen.jpg) | ![AI](assets/SelectAlgorithm.jpg) | ![Board](assets/GameBoard.jpg) |
 
 ## 🧪 How to Run
 
@@ -41,5 +44,3 @@ This project was developed as part of an Artificial Intelligence course at [Benh
 - Farida Waheed Abdelbary
 - Nour Hesham Elsayed
 - Razan Ahmed Fawzi
-
-## 🎥 Demo
